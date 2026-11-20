@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "path": "/", "title": "Codi Signal" },
+    { "path": "/workflows", "title": "Workflows" },
+    { "path": "/signals", "title": "Signals" },
+    { "path": "/runs", "title": "Runs" }
+  ]
+}
